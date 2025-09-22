@@ -18,3 +18,12 @@ class YourMainScene(PyGameScene):
   def render(self,screen,events):
     # Write your Rendering Code here
 ```
+now lets say you want to add a Button then write a snippet like this in update:
+
+```python
+self.drawables.append(Button("Here Goes the Button Text",
+  (Here Goes a tuple of 2 ints that is the center of the button),
+  (Here Goes a tuple of 2 ints that is the size of the button),
+  heres a reference for what should happen when the button gets clicked(lamda supported),
+  [Heres a list of values that should be passed onto the on_clicked methode]))
+```
