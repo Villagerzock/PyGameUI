@@ -1,5 +1,16 @@
 # PyGameUI Is a PyGame UI Library that adds simple UI for with the use of PyGame
 
+## Installing PyGameUI
+in your Terminal on Write:
+Windows:
+```bash
+pip install simple-pygame-ui
+```
+Linux-Debian:
+```bash
+sudo apt install python-simple-pygame-ui
+```
+
 ## Setting up a simple setup:
 
 in your Main Class write:
