@@ -6,7 +6,7 @@ in your Main Class write:
 
 ```python
 if __name__ == "__main__":
-  pygameui.setup(YourMainScene())
+  pygameui.setup(YourMainScene(),"Window Name Goes Here")
 ```
 
 and also make a Script and add a class to that script in my Case "YourMainScene"
