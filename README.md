@@ -38,3 +38,5 @@ self.drawables.append(Button("Here Goes the Button Text",
   heres a reference for what should happen when the button gets clicked(lamda supported),
   [Heres a list of values that should be passed onto the on_clicked methode]))
 ```
+
+More infos in the [Wiki](https://github.com/Villagerzock/PyGameUI/edit/master/README.md)
